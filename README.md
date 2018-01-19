@@ -12,3 +12,8 @@ Struktura html
 2. js
 3. images
 4. index.html
+
+
+-------------------------------------
+
+https://ros1k.github.io/siteonchair/
